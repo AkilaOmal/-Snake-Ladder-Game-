@@ -6,6 +6,7 @@
 #include <map>
 using namespace sf;
 using namespace std;
+//TIK TAK TOE GAME CODE IS IN COMMENTS
 //int main()
 //{
 //    char state[3][3] = {
@@ -497,5 +498,6 @@ int main() {
 		window.display();
 	}
 }
+
 
  
